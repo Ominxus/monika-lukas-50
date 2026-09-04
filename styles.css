@@ -11,7 +11,7 @@ body:before{content:'';position:fixed;inset:0;pointer-events:none;opacity:.25;ba
 .hero h1{font:600 clamp(64px,9vw,112px)/.76 'Cormorant Garamond',serif;letter-spacing:-5px;margin:0;color:#463936}.hero h1 span{font-style:italic;color:var(--rose);font-weight:400}
 .hero-kicker{font:500 31px 'Cormorant Garamond',serif;margin:32px 0 15px}.hero-kicker strong{font-size:55px;color:var(--rose);font-weight:500}
 .hero-text{font:400 22px/1.35 'Cormorant Garamond',serif;color:var(--muted);margin:0 0 30px}
-.sandra-text{font:500 25px 'Poppins Regular',serif;color:var(--black);font-weight:500}
+.sandra-text{font:500 30px 'Poppins Regular',sans-serif;color:var(--black);font-weight:500}
 /* Portrait photo fix */
 .photo-frame {
     width: 100%;
